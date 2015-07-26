@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![profile pic]({{ site.url }}/images/profile2.jpg)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a Site Reliability Engineer at [Dropbox](https://www.dropbox.com), based out of San Francisco, CA. 
 
-There are currently two themes built on Poole:
+Prior to Dropbox I spent time at [Amazon Web Services](https://aws.amazon.com/), [Quora](https://www.quora.com), [Facebook](https://www.facebook.com), and some smaller technology companies. I've been working as a SysAdmin/SRE/systems engineer for about 15 years and have supported infrastructures with servers numbering in the hundreds of thousands, running applications relied upon by billions of people.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Outside of work I'm interested in the information security world, freedom of speech issues, advancement of civil liberties, my dog, riding bikes, and (occasionally) surfing.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Elsewhere on the Internet:
 
-## Setup
+* [Facebook](https://facebook.com/tcook)
+* [@ywxwy](https://twitter.com/ywxwy)
+* [GitHub](https://github.com/tomcook)
+* [LinkedIn](https://www.linkedin.com/in/tcoooooooooooooooooooooooooook)
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
