@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Tom Cook
+tagline:             HORSE
+url:                 https://tom.horse
 paginate:            1
-baseurl:             ""
+baseurl:             "https://tom.horse"
 
 # Assets
 #
@@ -20,11 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tom Cook
+  url:               https://twitter.com/ywxwy
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+pages_list:
+  About:    '/about'
+  Archive:  '/archive'
