@@ -1,3 +1,5 @@
+The following license terms only applies to the Poole static site generator code that builds this repo into tom.horse, and not the content on the site, primarily contained in the _posts/, images and public directories, or any file ending in .md. All site content is Copyright (c) 2015 Tom Cook
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
